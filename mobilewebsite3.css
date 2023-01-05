@@ -1,0 +1,41 @@
+.bgimg3{
+	background-image: url('https://w0.peakpx.com/wallpaper/300/911/HD-wallpaper-dark-vertical-black-thumbnail.jpg');
+	background-size: cover;
+	height: 150vh;
+}
+.headfirst{
+	color: white;
+}
+.mobilehead{
+	color: black;
+	font-family: 'Roboto';
+	font-weight: bold;
+	font-size: 35px;
+	padding: 25px;
+}
+.layoutcard2{
+
+	background-color: pink;
+	border-radius: 8px;
+	padding: 20px;
+	margin: 18px;
+}
+.brandsimg{
+	width: 120px;
+	height: 120px;
+}
+.brandshead{
+	color:#eb3a34 ;
+	font-family: 'Roboto';
+	font-weight: bold;
+	font-size:30px ;
+}
+.brandspara{
+	color: black;
+	font-family: 'Roboto';
+	font-size: 15px;
+}
+imageres{
+    height:180px;
+    width: 200px;
+}

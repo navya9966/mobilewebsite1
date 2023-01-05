@@ -1,0 +1,12 @@
+.bgimg{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEeti75TcjBUXk5xYFyqjgC2U3TR0t6VbDcg&usqp=CAU);
+	background-size: cover;
+	height: 100vh;
+}
+.layoutcard{
+	background-color: white;
+	height: 200px;
+	border-top-left-radius: 20px;
+	border-top-right-radius:20px ;
+	padding: 20px;
+}
